@@ -1,0 +1,140 @@
+Le Fou
+
+3 à 6 joueurs
+15 à 50 minutes
+
+Matériel de jeu:
+
+Jeu de tarot
+Dés à 6 faces
+Feuille pour noter les points de vie
+Stylo
+
+Début de partie :
+
+Chaque joueur a 50 points de vie (pv) en début de partie.
+Il y a une pioche de cartes normales, une pioche d'arcanes, une défausse de cartes normales et une défausse d'arcanes.
+On distribue 6 cartes normales et 1 arcane à chaque joueur.
+Le joueur ayant obtenu le plus grand résultat au dé commence. En cas d'égalité jouez au pierre-feuille-ciseaux.
+
+But du jeu:
+
+Être le dernier joueur ou la dernière équipe en lice.
+Un joueur perd lorsque ses points de vie atteignent 0. Les cartes de sa main et de son terrain vont dans les défausses.
+
+Types de cartes :
+Cartes normales: Elles vont dans la défausse normale lorsqu'elles sont utilisées ou détruite.
+Arcanes: Elles vont dans la défausse arcanique lorsqu'elles sont utilisées ou détruite.
+
+Unités :Cartes permanentes à poser sur le terrain, elles permettent de déclancher une attaque par tour.
+Armes :Cartes permanentes à placer sur une unité. Augmentent les dégats infligés par une unité. Une unité ne peut utiliser qu'une seule arme.
+Armures: Cartes permanentes à placer sur le terrain . Réduit les dégats subis.
+Améliorations :Cartes permantentes à placer sur une arme ou une armure. Renforce son effet.
+Une arme ou une armure ne peut être améliorée que par un seul 2 et un seul 3 à la fois.
+Sorts :Cartes à usage unique. Vont dans une défausse après utilisation. Effets variés.
+
+Tour de jeu :
+
+Piochez une carte normale en début de tour.
+Après avoir piocher et avant d'attaquer vous pouvez défausser une carte seule de votre terrain ou de votre main pour piocher une autre carte. Vous pouvez pas défausser une unité avec de l'équipement.
+Vous pouvez jouer autant de carte par tour que vous le souhaitez hors attaque.
+Vous pouvez attaquer une fois par tour (sauf au tour 1) avec chaque unité.
+Il existe trois types d'attaques : l'attaque physique et le sort d'attaque.
+Attaque : lors de votre tour, choisissez une unité ou plusieurs unités normales ou un sort d'attaque, et désignez la cible de l'attaque.
+Lors d'une attaque physique, les dégats subis par la cible de l'attaque sont égaux à la différence suivante : 
+[votre dé d'attaque + le(s) bonus de l' (des) unités attaquante + le bonus de son (leurs) arme + le bonus des améliorations] - [son dé de résistance corporelle + son bonus d'armure + son bonus d'amélioraton]
+Les dégâts magiques ne sont réduits ni par les armures ni par la résistance corporelle. Ils ne sont réduits que par les sorts de défense.
+Le joueur subissant une attaque non magique active sa résistance corporelle en lançant 1 dé. Celle-ci n'est pas améliorable par les améliorations d'armure.
+Chaque dégât subit réduit de 1 les pv.
+
+
+Règles en équipe:
+
+Vous pouvez placer la Tour sur le terrain d'un allié. Elle défaussée au début de votre prochain tour.
+Vous pouvez utiliser sur un allié les sorts de défense et la Tempérance.
+A deux contre trois, chaque joueur de l'équipe de deux reçoit trois cartes supplémentaires et un bonus de 25 pv.
+
+Arcanes :
+
+I.    Le Magicien ou le Bateleur :Sort. Toutes les attaques de l'utilisateur deviennent magiques pendant un tour.
+II.   La Grande Prêtresse ou la Papesse :Choississez un adversaire et placez la carte sur son terrain: il perdra 5 pv au début de chaque tour.
+III.  L'Impératrice :Unité +0, inflige des dégats magiques.
+IV.   L'Empereur :Unité +10.
+V.    Le Hiérophante ou le Pape :Tant qu'il est sur votre terrain,il vous soigne de 5 pv au début chacun de vos tours.
+VI.   Les Amoureux :Sort. Partage les dégâts subis ou infligés équitablement avec un joueur en jeu, en cas de dégâts impairs la cible de l'attaque subit le plus de dégâts.
+VII.  Le Chariot :Armure +6. Non améliorable.
+VIII. La Justice :Sort. L'attaquant subit autant de dégât que vous.
+IX.   L'Ermite :Sort. Piochez 4 cartes normales.
+X.    La Roue de Fortune :Sort. Tous les dés de l'utilisateur valent 6 pendant son tour.
+XI.   La Force :Sort. Double les dégâts infligés par l'attaque de l'utilisateur avant le calcul de la défense.
+XII.  Le Pendu :Sort. Permet de récupérer une des carte défaussées par l'utilisateur.
+XIII. La Mort ou l'arcane sombre :Sort. Détruit une carte sur le terrain d'un adversaire et les cartes associées.
+XIV.  Tempérance :Sort. L'utilisateur ne subissez qu'un dégat lors de l'attaque subie.
+XV.   Le Diable :Sort. L'utilisateur vole une carte dans la main de chaque adversaire, sans regarder, et la met dans sa main.
+XVI.  La Tour ou la maison Dieu :Détruit toutes les cartes attaquent l'utilisateur et leurs cartes associées jusqu'au prochain tour, utilisable pendant le tour d'un adversaire. La Tour est défaussée au début du  tour de l'utilisateur.
+XVII. L'Étoile :Sort d'attaque. Inflige 4 dés de dégâts magiques.
+XVIII.La Lune :Sort. Permet de lancer une attaque contre un ennemi avec une de ses unités. Ignore les armures, la résistance corporelle et les sorts de défense.
+XIX.  Le Soleil :Sort d'attaque. Inflige 5 dégats magiques à chaque adversaire. Soigne l'utilisateur d'autant de pv que le total des dégats infligés.
+XX.   Le Jugement :Sort. Annule la dernière carte jouée.
+XXI.  Le Monde :Sort. L'utilisateur joue un deuxième tour. Règle additionnelle: Si vous ne criez pas "Za Warudo", un joueur peut annuler son effet.
+0.    Le Fou ou le mat :Prend les effets de la carte choisie par l'utilisateur.
+
+Cartes normales :
+
+A  Echec critique:Sort. Annule et défausse la dernière normale carte jouée. Se joue en réaction. Note:crier "Objection!" renforce cet effet.
+2  Masamune:Amélioration +3.
+3  Muramasa:Amélioration +3.
+4  Epée:Arme +3 sur une unité.
+5  Lance:Arme. Lorsque vous attaquez avec l'unité dont la lance est équippée, lancez un dé. Si pair +6, si impair +0 sur l'unité.
+6  Armure : +2
+7  Sort élémentaire:Sort d'attaque. Inflige 2 dés de dégâts non réduit par les armures, réduit par les sorts de défense.
+8  Contre attaque :Sort. Réduit de 1 dé les dégâts subis et en inflige autant à l'attaquant, à utiliser avant la fin de l'attaque. Note:"Je pose une carte face cachée et je termine mon tour." rend la partie plus animée.
+9  Bastet:Sort. Piochez une arcane.
+10 Fortuna:Sort. Piochez une arcane.
+V  Gardes:Unité +0
+C  Cavalier de l'Apocalypse:Unité +2
+D  Reine:Unité +4 Règle additionnelle: Si vous achevez un adversaire avec une dame, personne n'a le droit de vous empêcher de chanter "Killer Queen","Dancing Queen","God save the Queen"(des Sex Pistols, pas l'hymne).
+R  Roi:Unité +6
+
+Variante de jeu: Mode Hyper-offense
+Retirez les 6, 8, V.,XIII.,XIV.,XVI.et XIX.
+Chaque joueur a 100 pv.
+
+Notes:
+
+Si deux joueurs meurent en même temps avec une contre attaque, la Justice ou les Amoureux, la cible principale meurt et perd en premier.
+Les dégâts de la Justice ou des Amoureux sont infligés après les soins du Soleil.
+Un Fou ressucité par le Pendu reste un Fou.
+Si un joueur a sur son terrain le Hiérophante et la Grande Prêtresse il perd, se soigne et subit les dégats simultannement ; autrement dit, il ne passe rien.
+Vous ne pouvez ni utiliser plusieurs Justice ni plusieurs Amoureux (avec Pendu ou Fou) lors d'une attaque.
+Vous pouvez bannir un joueur qui nuit au bon déroulement du jeu avec un préavis.
+Si vous trichez, faites le discretement.
+Vous n'avez pas le droit d'arrêter le temps et de distordre l'espace pour tricher.
+En cas de litige referrez vous aux juges-arbitres CAM, Gruiman et Rhadamanthe.  
+
+Sur une idée originale de Charles-Alexandre "CAM" Matyjasik
+
+Directeur de projet			Charles-Alexandre Matyjasik
+Producteur exécutif			M. Matyjasik
+Game designer				Mr Matyjasik
+Lead designer				C.-A. Matyjasik
+Sound designer				MATYJASIK Charles-Alexandre
+Game tester				CAM
+					Jules Charpentier
+					Arthur Remoussin
+					William Olax
+					Baptiste Reig
+
+Remerciements spéciaux:
+Jules Charpentier
+William Olax
+Arthur Remoussin
+Baptiste Reig
+Antoine Gayral
+Paul Romet
+Noé Boonstra
+
+Et toi, joueur, qui contribue à la renommée de mon oeuvre!
+
+Propriété intellectuelle de Charles-Alexandre Matyjasik.
+2018 - tous droits réservés
